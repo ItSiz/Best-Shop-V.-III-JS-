@@ -21,9 +21,13 @@
       color: $color-grey;
       margin-top: 6px;
     }
+
+    &__copy:nth-of-type(2) {
+      margin-top: -10px;
+    }
   
     &__icons a:first-of-type {
       margin-right: 25px;
     }
-  }
+ }
   
